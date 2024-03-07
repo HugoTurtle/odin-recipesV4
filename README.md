@@ -1,0 +1,1 @@
+Odin Recipes is a website linking to 3 different types of delicious recipes. With this project I hope to show an understanding of the foundations of HTML and CSS
