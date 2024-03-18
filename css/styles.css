@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(161, 122, 87);
+}
+h1,
+li {
+    text-align: center;
+    list-style-type: none;
+}
+h1 {
+    font-size: 100px;
+    font-family: Papyrus;
+}
+li {
+    font-size: 25px;
+    margin: 20px;
+}
+a {
+    color: white;
+}
+a:link { 
+    text-decoration: none; 
+  } 
+  a:visited { 
+    text-decoration: none; 
+  } 
+  a:hover { 
+    text-decoration: none; 
+  } 
+  a:active { 
+    text-decoration: none; 
+  }
